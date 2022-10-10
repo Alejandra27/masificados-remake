@@ -1,0 +1,15 @@
+/* FONTS*/
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800|Ubuntu:300,400,500,700|Droid+Serif:400italic);
+@import url('fonts/font-awesome/css/font-awesome.min.css');
+@import url('fonts/flaticon/flaticon.css');
+@import url('fonts/simple/simple.css');
+@import url('fonts/autoicon/css/fontello.css');
+
+/* MAIN CSS */
+@import url('theme.css');
+@import url('sections.css');
+@import url('blog.css');
+@import url('sidebar.css');
+@import url('responsive.css');
+@import url('color.css');
+
